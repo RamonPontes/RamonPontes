@@ -43,6 +43,14 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Pontiz from Brazil.<br><br>- 🔭 I’m working as a Full-Stack Developer.<br>- 📚 I’m currently learning in technical high school.<br>- ⚡ In my free time, I play games.</p>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ramonpontes/ramonpontes/output/snake.svg" alt="Snake animation" />
