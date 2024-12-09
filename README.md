@@ -43,9 +43,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![snake gif](https://github.com/RamonPontes/RamonPontes/blob/output/github-contribution-grid-snake.svg)
-
-###
