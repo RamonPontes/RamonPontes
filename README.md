@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ramon and I'm a Full-Stack Developer</h2>
+<h2 align="center">Hi 👋! My name is Ramon and I'm a Backend Developer</h2>
 
 ###
 
@@ -47,12 +47,10 @@
 
 ###
 
-<p align="left">I'm Pontiz from Brazil.<br><br>- 🔭 I’m working as a Full-Stack Developer.<br>- 📚 I’m currently learning in technical high school.<br>- ⚡ In my free time, I play games.</p>
+<p align="left">I'm Pontiz from Brazil.<br><br>- 🔭 I’m working as a Backend Developer.<br>- 📚 I’m currently learning in technical high school.<br>- ⚡ In my free time, I play games.</p>
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ramonpontes/ramonpontes/output/snake.svg" alt="Snake animation" />
-
-###
